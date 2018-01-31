@@ -1,0 +1,9 @@
+target/
+*.iml
+.idea
+*.config
+test
+test-config.sbt
+base-directory
+
+project/TestPlugin.scala
